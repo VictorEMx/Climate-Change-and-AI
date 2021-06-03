@@ -83,3 +83,6 @@
    explore<-explore[order(-explore$count),]
    write.csv(explore,paste0(out,indicators_names[i],".csv"),row.names=FALSE)
  }
+
+
+#Test 2
